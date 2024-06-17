@@ -30,7 +30,7 @@ Este proyecto backend es simple de crear usuarios y loggin, es necesario tener i
 Se puede crear usuarios, editar,listar y eliminar.
 Los puntos crear, editar y eliminar solo se pueden realizar si se esta loggeado con las credenciales correctas
 
-##End Points
+## End Points
 auth/login (POST)
 
 usuarios/ (GET)
