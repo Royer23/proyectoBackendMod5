@@ -26,6 +26,24 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+Este proyecto backend es simple de crear usuarios y loggin, es necesario tener instalado postgress para utilizarlo en produccion.
+Se puede crear usuarios, editar,listar y eliminar.
+Los puntos crear, editar y eliminar solo se pueden realizar si se esta loggeado con las credenciales correctas
+
+##End Points
+auth/login (POST)
+
+usuarios/ (GET)
+usuarios/id  (GET)
+usuarios/id (PATCH)
+usuarios/id (DELETE)
+
+usuario de prueba:
+{
+    "email": "jose123@gmail.com",
+    "password": "123456"
+}
+
 ## Installation
 
 ```bash
