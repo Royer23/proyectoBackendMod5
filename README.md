@@ -74,10 +74,14 @@ $ npm run start:prod
 # unit tests
 $ npm run test
 
-# e2e tests
+# Test usuarios
+# Pruebas Unitarias: 19
+# Pruebas de Integracion: 6
 $ npm run test:usuario
 
-# test coverage
+# Test Auth
+# Pruebas Unitarias: 3
+# Pruebas de Integracion: 2
 $ npm run test:auth
 ```
 
