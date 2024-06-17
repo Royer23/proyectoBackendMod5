@@ -34,11 +34,16 @@ Los puntos crear, editar y eliminar solo se pueden realizar si se esta loggeado 
 auth/login (POST)
 
 usuarios/ (GET)
+
 usuarios/id  (GET)
+
 usuarios/id (PATCH)
+
 usuarios/id (DELETE)
 
+
 usuario de prueba:
+
 {
     "email": "jose123@gmail.com",
     "password": "123456"
